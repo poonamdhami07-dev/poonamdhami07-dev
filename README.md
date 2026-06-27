@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi👋, I'm Poonam Dhami 
 
-<!--
-**poonamdhami07-dev/poonamdhami07-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science (Data Science) Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Data Science, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python
+- SQL
+- Data Structures & Algorithms
+- Git & GitHub
+
+🚀 Current Projects:
+- Python Calculator
+
+📫 Connect with me:
+- LinkedIn: https://linkedin.com/in/poonamdhami
+
+⭐ Thanks for visiting my profile!
